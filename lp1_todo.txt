@@ -1,0 +1,18 @@
+TODO
+
+FRONTEND:
+
+bg geometric designs
+
+transition between sections w/ bg designs (change color shades)
+
+add subtle JS bg color animations to top section
+
+drop shadow on main section CTA on white bg
+
+different font for headers
+
+
+BACKEND:
+
+get forms functional
